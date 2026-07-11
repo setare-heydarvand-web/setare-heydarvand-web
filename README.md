@@ -58,13 +58,9 @@ Elegant beauty products website built using HTML & CSS.
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=setareh-heydarvand-web&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=setareh-heydarvand-web&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=setareh-heydarvand-web&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
