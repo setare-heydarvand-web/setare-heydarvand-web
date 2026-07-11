@@ -1,64 +1,84 @@
 
-# Hi, I'm Setare 👋
+<div align="center">
 
-### 💻 Frontend Developer | Passionate about Clean & Modern Web Design
+# Hi there, I'm Setare 👋
 
-I'm a Frontend Developer focused on creating beautiful, responsive, and user-friendly websites using modern web technologies. I enjoy turning ideas into elegant and functional interfaces while continuously improving my skills.
+### 💻 Frontend Developer | HTML • CSS • JavaScript
+
+Passionate about creating modern, clean and user-friendly web experiences.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer
-- 🌱 Currently improving my HTML, CSS & JavaScript skills
-- ⚛️ Planning to learn React soon
-- 🎨 Passionate about clean UI and modern web design
-- 📂 Building real-world frontend projects
-- 🇮🇷 Based in Iran
+✨ Frontend Developer from Iran
+
+🌱 Currently learning **JavaScript** and preparing to learn **React**
+
+🎨 Passionate about UI Design & Clean Code
+
+📂 Building real-world Frontend projects
+
+💡 Always learning something new
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
-
----
-
-## 📌 Current Goals
-
-- 🚀 Become a Professional Frontend Developer
-- ⚛️ Master JavaScript & React
-- 💼 Build a strong portfolio
-- 🌍 Contribute to open-source projects
-- 📚 Learn new technologies every day
 
 ---
 
 ## 📂 Featured Projects
 
-✨ Coffee Shop Website  
-✨ Apple Landing Page  
-✨ Beauty Store Website
+### ☕ Coffee Shop Website
+Modern coffee shop landing page built with HTML & CSS.
 
-More projects coming soon...
+### 🍎 Apple Landing Page
+A clean Apple-inspired landing page with a premium UI.
 
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=setare-heydarvand-web&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setare-heydarvand-web&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 💄 Beauty Store Website
+Elegant beauty products website built using HTML & CSS.
 
 ---
 
-## 📫 Connect With Me
+## 🎯 2026 Goals
 
-- GitHub: https://github.com/setare-heydarvand-web
+- 🚀 Become a Professional Frontend Developer
+- ⚛️ Learn React.js
+- 💻 Build more real-world projects
+- 🌍 Create a strong GitHub portfolio
+- 📚 Keep improving every day
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=setareh-heydarvand-web&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=setareh-heydarvand-web&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+🐙 GitHub:
+https://github.com/setareh-heydarvand-web
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
